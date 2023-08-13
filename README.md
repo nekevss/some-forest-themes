@@ -1,16 +1,9 @@
-# foggy-forest README
+# Some Forest Themes
 
-## Working with Markdown
+Why?
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Because the woods are relaxing to me, and so I'd like some thing that reminds me of being out in the woods.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+First and foremost, shout out to `greenery`. But a little variety never hurt as well.
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Note: as with most things, these are totally a work in progress.
