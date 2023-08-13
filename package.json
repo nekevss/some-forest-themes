@@ -1,0 +1,21 @@
+{
+  "name": "some-forest-themes",
+  "displayName": "Forest VS Code Themes",
+  "description": "Some forest inspired themes, because I don't get outside enough.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Foggy Forest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Foggy Forest-color-theme.json"
+      }
+    ]
+  }
+}
