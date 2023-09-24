@@ -1,7 +1,7 @@
 {
 	"name": "Foggy Forest",
 	"colors": {
-		"foreground": "#1c1f2e",
+		"foreground": "#ece6da",
 		"focusBorder": "#384237",
 		"selection.background": "#384237",
 		"scrollbar.shadow": "#000000",
@@ -137,8 +137,8 @@
 		"panelTitle.activeForeground": "#caceb5",
 		"panelTitle.inactiveForeground": "#ece6da",
 		"panelSectionHeader.foreground": "#b09654",
-		"badge.background": "#4d3535",
-		"badge.foreground": "#ffffff",
+		"badge.background": "#4e615b",
+		"badge.foreground": "#caceb5",
 		"terminal.foreground": "#ece6da",
 		"terminal.selectionBackground": "#ffffff40",
 		"terminalCursor.background": "#b09654",
